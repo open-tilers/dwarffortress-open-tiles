@@ -11,7 +11,7 @@ def get_configs():
 
     configs = {}
     for config_file in config_files:
-        config = os.path.basename(config_file).lower()
+        config = os.path.splitext(os.path.basename(config_file).lower())[0]
         configs[config] = read_config_file(config_file)
     return configs
 

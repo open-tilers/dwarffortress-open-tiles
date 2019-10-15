@@ -62,7 +62,7 @@
 [TILE_61:kruggsmash/61.bmp]
 [TILE_62:kruggsmash/62.bmp]
 [TILE_63:kruggsmash/63.bmp]
-[TILE_64:kruggsmash/64.bmp]
+[TILE_64:blindirl/64.bmp]
 [TILE_65:kruggsmash/65.bmp]
 [TILE_66:kruggsmash/66.bmp]
 [TILE_67:kruggsmash/67.bmp]
